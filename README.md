@@ -30,4 +30,4 @@ Para excluir os dados inseridos no app, siga as etapas abaixo:
 ---
 
 **Contato do desenvolvedor:**  
-lucas.sampaio.leite@email.com (substitua por seu e-mail real, se desejar)
+lucas.sampaio.leite@email.com
